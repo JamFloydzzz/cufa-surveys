@@ -1,0 +1,1 @@
+{"name":"cufa-surveys","private":true,"type":"module","scripts":{"start":"node local.mjs","dev":"node local.mjs","build":"python3 build.py"},"engines":{"node":">=22.13"}}
